@@ -20,7 +20,7 @@ CORS(
     app,
     resources={
         r"/*": {
-            "origins": ["https://koglint.github.io"],
+            "origins": ["https://dbaldwin10.github.io"],
             "methods": ["GET", "POST", "OPTIONS"],
             "allow_headers": ["Content-Type", "Authorization"],
         }
